@@ -2,3 +2,8 @@ C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.csprojAss
 C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.AssemblyInfoInputs.cache
 C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.AssemblyInfo.cs
 C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\rCOS\bin\Debug\netcoreapp2.0\cosmos\rCOS.deps.json
+C:\Users\Rodrigo\source\repos\rCOS\bin\Debug\netcoreapp2.0\cosmos\rCOS.dll
+C:\Users\Rodrigo\source\repos\rCOS\bin\Debug\netcoreapp2.0\cosmos\rCOS.pdb
+C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.dll
+C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.pdb
