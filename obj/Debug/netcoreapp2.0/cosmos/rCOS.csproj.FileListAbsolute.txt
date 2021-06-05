@@ -1,0 +1,4 @@
+C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\rCOS\obj\Debug\netcoreapp2.0\cosmos\rCOS.csproj.CoreCompileInputs.cache
